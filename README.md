@@ -1,7 +1,7 @@
 # Task-Scheduler
 
 
-📅 Task Scheduler (Java-Only Project)
+📅 Task Scheduler 
 A Task Scheduler allows users to add, edit, delete, and list scheduled tasks. It’s built entirely in Java with no external technologies and includes file-based storage for persistence.
 
 📌 Features
